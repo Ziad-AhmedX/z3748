@@ -9,12 +9,12 @@ I'm a communication and electronics student who is passionate about Embedded Sof
   - 🌱 Learning more about Microcontrollers , Embedded Sofware .
   - 📫 How to reach me:**LinkedIn**: (www.linkedin.com/in/ziad-ahmed-6810a42b3)
 
-🛠️ Languages and Tools:
-💻   C
+## 🛠️ Languages and Tools:
 
-⚙️   Ubuntu ,GitHub 
+- 💻 **Programming Languages**: C
+- ⚙️ **Tools and Technologies**: Ubuntu, GitHub
+- 🔧 **Development Environments**: Visual Studio Code
 
-🔧   Visual Studio Code
 
 
 
