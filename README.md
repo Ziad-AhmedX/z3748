@@ -1,4 +1,4 @@
-# Hey there! I'm Ziad
+# Hi 👋, I'm Ziad
 
 ## 👨🏻‍💻 About Me
 
