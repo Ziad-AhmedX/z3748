@@ -7,13 +7,16 @@ I'm a communication and electronics student who is passionate about Embedded Sof
   - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
   - Grade: Very Good.
   - 🌱 Learning more about Microcontrollers , Embedded Sofware .
-  - 📫 How to reach me:**LinkedIn**: <a href="www.linkedin.com/in/ziad-ahmed-6810a42b3" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 24px; height: 24px;"/></a>
+  -📬**How to reach me:** [Linkedin](https://www.linkedin.com/in/ziad-ahmed-6810a42b3/) [Gmail](mailto: za3978510@gmail.com)
 
-## 🛠️ Languages and Tools:
+🛠 **Languages and Tools:**
 
-- 💻 **Programming Languages**: C
-- ⚙️ **Tools and Technologies**: Ubuntu, GitHub
-- 🔧 **Development Environments**: Visual Studio Code
+- 💻 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
+
+- ⚙️ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+
+- 🔧 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+
 
 
 
