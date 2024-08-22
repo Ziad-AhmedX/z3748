@@ -9,13 +9,13 @@ I'm a communication and electronics student who is passionate about Embedded Sof
   - 🌱 Learning more about Microcontrollers , Embedded Sofware .
   - 📫 How to reach me:**LinkedIn**: (www.linkedin.com/in/ziad-ahmed-6810a42b3)
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools:
 
-- 💻 **Programming Languages**: C
-
-- ⚙️ **Tools and Technologies**:   Ubuntu, GitHub
-
-- 🔧 **Development Environments**: Visual Studio Code
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px; font-weight: bold;">💻  C </span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px; font-weight: bold;">⚙️ Ubuntu, GitHub, </span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px; font-weight: bold;">🔧 Visual Studio Code </span>
+</div>
 
 
 
