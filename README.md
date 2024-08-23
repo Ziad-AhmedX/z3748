@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ziad
 
 ## 👨🏻‍💻 About Me                                    
- <div style="float: right; margin-left: 20px;">
+ <div style="float: right; margin-left: 300px;">
     <img src="https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe" alt="Cartoon Programmer" style="width: 200px; height: auto;">
 </div>
 
