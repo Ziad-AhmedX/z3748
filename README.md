@@ -1,10 +1,9 @@
 # Hi 👋, I'm Ziad
 
 ## 👨🏻‍💻 About Me                                      
-<img src="https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe" alt="Cartoon Programmer" style="width: 200px; height: auto; float: right; margin-left: 20px;">
 
+I'm a communication and electronics student who is passionate about Embedded Software.![coding](https://github.com/user-attachments/assets/2077ce7d-40ad-40c7-b151-c72a3d68d435)
 
-I'm a communication and electronics student who is passionate about Embedded Software.
 
   - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
   - Grade: Very Good.
