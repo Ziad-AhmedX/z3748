@@ -1,10 +1,12 @@
 # Hi 👋, I'm Ziad
 
 ## 👨🏻‍💻 About Me  <div style="display: flex; align-items: center;">
-    <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" alt="Cartoon Programmer" style="width: 400px; height: auto; margin-right: 20px;">
-    <h2>👨🏻‍💻 </h2>
-</div>
+    
 I'm a communication and electronics student who is passionate about Embedded Software.
+<div style="display: flex; align-items: center;">
+    <img src="https://media.tenor.com/your_image.gif" alt="Cartoon Programmer" style="width: 400px; height: auto; margin-right: 20px;">
+    <h2>👨🏻‍💻 About Me</h2>
+</div>
 
   - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
   - Grade: Very Good.
