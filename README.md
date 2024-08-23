@@ -1,7 +1,9 @@
 # Hi 👋, I'm Ziad
 
-## 👨🏻‍💻 About Me
-
+## 👨🏻‍💻 About Me  <div style="display: flex; align-items: center;">
+    <img src="URL_TO_YOUR_GIF" alt="Cartoon Programmer" style="width: 400px; height: auto; margin-right: 20px;">
+    <h2>👨🏻‍💻 </h2>
+</div>
 I'm a communication and electronics student who is passionate about Embedded Software.
 
   - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
