@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ziad
 
 ## 👨🏻‍💻 About Me  
-![logo] (https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif)    
+![logo] (https://tenor.com/view/coding-gif-24297652)    
 I'm a communication and electronics student who is passionate about Embedded Software.
 
   - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
