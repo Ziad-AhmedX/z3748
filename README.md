@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ziad
 
 ## 👨🏻‍💻 About Me  
-![coding](https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe)
+                                                                                                                            ![coding](https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe)
 
 I'm a communication and electronics student who is passionate about Embedded Software.
 
