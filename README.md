@@ -1,8 +1,9 @@
 # Hi 👋, I'm Ziad
 
-## 👨🏻‍💻 About Me                                    <div style="text-align: right;">
-    <img src="https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe" alt="Cartoon Programmer" style="width: 150px; height: 150px;">
-</div>  
+## 👨🏻‍💻 About Me                                    
+ <div style="float: right; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe" alt="Cartoon Programmer" style="width: 200px; height: auto;">
+</div>
 
 I'm a communication and electronics student who is passionate about Embedded Software.
 
