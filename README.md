@@ -5,8 +5,7 @@
 I'm a communication and electronics student who is passionate about Embedded Software.
 
 
-
-  - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
+  - Undergraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
   - Grade: Very Good.
   - 🌱 Learning more about Microcontrollers , Embedded Sofware .    
   - 📬**How to reach me:** [Linkedin](https://www.linkedin.com/in/ziad-ahmed-6810a42b3/) [Gmail](mailto:za3978510@gmail.com)
