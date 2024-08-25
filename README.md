@@ -4,6 +4,7 @@
 <img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe" >
 I'm a communication and electronics student who is passionate about Embedded Software.
 
+
   - Ungraduated Student Faculty of Engineering (Electronics and Communication department) - Zagzig University.
   - Grade: Very Good.
   - 🌱 Learning more about Microcontrollers , Embedded Sofware .    
