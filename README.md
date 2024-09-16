@@ -13,7 +13,7 @@ I'm a communication and electronics student who is passionate about Embedded Sof
 
 🛠 **Languages and Tools:**
 
-- 💻 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
+- 💻 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
 - ⚙️ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
